@@ -14,7 +14,7 @@ React is a pattern, a mindset, that will help developers that use it, build smal
 
 1. Describe state.
 
-State is an object that determines how that component renders & behaves. In other words, “state” is what allows you to create components that are dynamic and interactive.
+State is an object that determines how that component renders & behaves. In other words, “state” is what allows you to create components that are dynamic and interactive. 
 
 1. Describe props.
 
